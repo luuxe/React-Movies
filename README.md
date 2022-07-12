@@ -1,3 +1,10 @@
+# MovieLand 
+## an interactive web app built with the OMDbAPI (https://www.omdbapi.com/) to allow users to search for their favorite movies.
+
+<img width="1267" alt="Screen Shot 2022-07-12 at 7 34 30 AM" src="https://user-images.githubusercontent.com/104602440/178491346-1eee6f3f-2ec1-4bfb-83a5-0698a2fd2195.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
